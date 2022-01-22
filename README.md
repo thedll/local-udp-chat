@@ -4,7 +4,7 @@ Esse projeto é uma implementação de um chat baseado no modelo cliente-servido
 
 <h2> Uso </h2>
 
-1 - Inicialização do servidor na máquina local com a porta padrão (1060):
+1 - Inicialização do servidor na máquina local com a porta padrão utilizada pelo programa (1060):
 
 ```
 └─$ python3 main.py servidor
@@ -22,7 +22,7 @@ Escutando em ('127.0.0.1', 1060)
 Ou com a porta de sua escolha:
 
 ```
-└─$ python3 main.py servidor -p 44001                                                                                                                                                        130 ⨯
+└─$ python3 main.py servidor -p 44001                                                                                                                                                      
 
                  _                    _    ____ _           _   
                 | |    ___   ___ __ _| |  / ___| |__   __ _| |_ 
