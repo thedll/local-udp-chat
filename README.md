@@ -22,7 +22,7 @@ Escutando em ('127.0.0.1', 1060)
 Ou com a porta de sua escolha:
 
 ```
-└─$ python3 main.py servidor -p 44001                                                                                                                                                      
+└─$ python3 main.py servidor -p 44001   
 
                  _                    _    ____ _           _   
                 | |    ___   ___ __ _| |  / ___| |__   __ _| |_ 
@@ -49,7 +49,4 @@ Escutando em ('127.0.0.1', 44001)
 Mensagem: 
 ```
 
-3 - Agora a comunicação está estabelecida e a troca de mensagem pode ser feita. Para encerrar a conexão é necessário o cliente enviar 'sair'.
-
-
-
+3 - Agora que a comunicação está estabelecida, a troca de mensagem pode ser feita. Para encerrar a conexão de ambos é necessário que o cliente envie 'sair'.
